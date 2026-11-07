@@ -1,3 +1,8 @@
+## 🚀 Try NatWest Count Live!
+
+[(https://nwc-greatunihack-kxfxqrxr3wzwmcovpakvu3.streamlit.app/)]
+
+Explore our AI-inspired money coach, financial time machine, budget planner and affordability checker!
 NWC: NatWest Count 
 Your money. Your future. Make every penny count.
 
