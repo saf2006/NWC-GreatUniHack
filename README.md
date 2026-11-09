@@ -49,9 +49,6 @@ Open http://localhost:8501 in your browser.
 4. Try the demo
 Follow the simulated bank-connection steps, choose a savings goal and select Load sample data. Alternatively, upload a CSV file with these columns:
 date,description,amount
-2026-09-01,AGENCY PAY,1200
-2026-09-02,RENT,-500
-2026-09-03,GROCERIES,-45
 Use positive amounts for income and negative amounts for spending. The budgeting analysis needs at least two completed months of transaction history.
 5) Privacy and limitations
 - This hackathon prototype does not connect to a real bank. Its onboarding flow is simulated.
